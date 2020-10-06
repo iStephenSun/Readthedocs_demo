@@ -26,4 +26,3 @@ demo: `Bing <https://www.bing.com>`_
 
 例子：\ `Bary.com <http://www.bary.com>`_
 
-s **加粗**
