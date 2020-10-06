@@ -14,15 +14,15 @@ Guide
 
    
 
-Indices and tables
-==================
+.. Indices and tables
+.. ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. * :ref:`genindex`
+.. * :ref:`modindex`
+.. * :ref:`search`
 
 
-demo: `Bing <https://www.bing.com>`_
+.. demo: `Bing <https://www.bing.com>`_
 
-例子：\ `Bary.com <http://www.bary.com>`_
+.. 例子：\ `Bary.com <http://www.bary.com>`_
 
